@@ -29,20 +29,5 @@ Built with **HTML, CSS, JavaScript** for the frontend and **Node.js, Express, Mo
 
 **Database:**  
 - MongoDB  
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here after running your app for better presentation)*
-
----
-
-## ⚙️ Installation and Setup
-
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/<your-username>/Expense-Tracker.git
 cd Expense-Tracker
