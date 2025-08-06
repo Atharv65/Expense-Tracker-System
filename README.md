@@ -1,29 +1,48 @@
-# Expense Tracker Web App
+# 💰 Expense Tracker
 
-This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScript to help users manage their finances effectively. Keep track of your income and expenses, add new transactions, and visualize your financial health.
+A simple and responsive **Expense Tracker Web Application** to manage your personal finances effectively.  
+Built with **HTML, CSS, JavaScript** for the frontend and **Node.js, Express, MongoDB** for the backend.
 
-## Features
-- **Transaction Management:** Add income or expenses with ease by entering the transaction details.
-- **Dynamic Updates:** Real-time updates of balance, income, and expenses displayed on the interface.
-- **Transaction Removal:** Remove unwanted transactions seamlessly with a delete button.
+---
 
-## Usage
-1. Open the web app in your browser.
-2. Enter the transaction details, including the transaction text and amount.
-3. Press the "Add Transaction" button to update the list and balances.
-4. View your current balance, income, and expenses.
-5. Delete transactions by clicking the "x" button next to each entry.
+## 🚀 Features
 
-## Technologies Used
-- **HTML:** Structure the web page.
-- **CSS:** Style the user interface for a visually appealing experience.
-- **JavaScript:** Implement the dynamic functionality of the Expense Tracker.
+- Add income and expense transactions  
+- View transaction history in real time  
+- Automatic calculation of total balance, income, and expenses  
+- Delete unwanted transactions  
+- Persistent data storage using **MongoDB**  
+- Responsive and clean UI  
 
-## Code Overview
-- The JavaScript code handles transaction addition, deletion, and updates to the local storage.
-- Transactions are stored locally to maintain data persistence between sessions.
+---
 
-## How to Run
-Simply open the `index.html` file in a web browser to start using the Expense Tracker.
+## 🛠️ Tech Stack
 
-Feel free to enhance and customize the code to suit your preferences or integrate additional features!
+**Frontend:**  
+- HTML  
+- CSS  
+- JavaScript  
+
+**Backend:**  
+- Node.js  
+- Express.js  
+
+**Database:**  
+- MongoDB  
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here after running your app for better presentation)*
+
+---
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/<your-username>/Expense-Tracker.git
+cd Expense-Tracker
